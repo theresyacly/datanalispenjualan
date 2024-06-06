@@ -50,3 +50,5 @@ Sebuah perusahaan kosmetik ternama telah meluncurkan beberapa parfum baru ke pas
 
 Dengan mengikuti langkah-langkah analisis ini secara sistematis, Anda dapat memberikan wawasan berharga kepada perusahaan kosmetik dan membantu mereka meningkatkan strategi pemasaran parfum mereka.
 
+ # Grafik Data
+ ![Figure Theresya C Penjualan Fix](https://github.com/theresyacly/datanalispenjualan/assets/167269488/1d4d3e05-09cb-4a95-94dc-684e87053b5d)
