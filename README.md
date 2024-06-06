@@ -49,3 +49,4 @@ Sebuah perusahaan kosmetik ternama telah meluncurkan beberapa parfum baru ke pas
    - Jelaskan implikasi dari temuan Anda dan bagaimana mereka dapat digunakan untuk mengambil keputusan bisnis yang lebih baik di masa depan.
 
 Dengan mengikuti langkah-langkah analisis ini secara sistematis, Anda dapat memberikan wawasan berharga kepada perusahaan kosmetik dan membantu mereka meningkatkan strategi pemasaran parfum mereka.
+
